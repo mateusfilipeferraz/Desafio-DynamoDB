@@ -1,0 +1,58 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": " Jorge & Mateus"
+          },
+          "SongTitle": {
+            "S": "Vou Fazer Pirraça"
+          },
+          "AlbumTitle": {
+            "S": "O Mundo é Tão Pequeno ao Vivo"
+          },
+          "SongYear": {
+            "S": "1992"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": " Jorge & Mateus"
+          },
+          "SongTitle": {
+            "S": "Vou Fazer Pirraça"
+          },
+          "AlbumTitle": {
+            "S": "O Mundo é Tão Pequeno ao Vivo"
+          },
+          "SongYear": {
+            "S": "1992"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": " Jorge & Mateus"
+          },
+          "SongTitle": {
+            "S": "Vou Fazer Pirraça"
+          },
+          "AlbumTitle": {
+            "S": "O Mundo é Tão Pequeno ao Vivo"
+          },
+          "SongYear": {
+            "S": "1992"
+          }
+        }
+      }
+    }
+  ]
+}
